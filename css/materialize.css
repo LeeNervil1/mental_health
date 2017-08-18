@@ -2224,6 +2224,8 @@ template {
  */
 a {
   background-color: transparent;
+  font-size: 30px;
+  text-align: center;
 }
 
 /**
@@ -4538,6 +4540,7 @@ small {
 
 .light, .page-footer .footer-copyright {
   font-weight: 300;
+  font-size: 20px;
 }
 
 .thin {
@@ -5110,7 +5113,7 @@ small {
   text-align: center;
   max-width: calc(100% - 4px);
   overflow: hidden;
-  left: 0;
+  : 0;
   top: 0;
   pointer-events: none;
   visibility: hidden;
@@ -8226,7 +8229,7 @@ input[type=range]:focus::-ms-fill-upper {
 }
 
 .carousel.carousel-slider .carousel-item p {
-  font-size: 15px;
+  font-size: 20px;
 }
 
 .carousel .carousel-item {
